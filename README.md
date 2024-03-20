@@ -30,7 +30,6 @@ The provided code is a Python script named "MARKOMETER" that functions as a grad
 
 ### Example:
 ![Example Mark Sheet](example.txt)
-![Example Graph](example.png)
 
 ### Note:
 - Ensure correct input format (student name, subject marks) to avoid errors.
