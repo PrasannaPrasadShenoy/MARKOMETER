@@ -29,7 +29,7 @@ The provided code is a Python script named "MARKOMETER" that functions as a grad
 4. Follow the on-screen instructions to input student details and generate mark sheets.
 
 ### Example:
-![Example Mark Sheet](Sathwik.txt)
+![Example Mark Sheet](example.txt)
 
 ### Note:
 - Ensure correct input format (student name, subject marks) to avoid errors.
