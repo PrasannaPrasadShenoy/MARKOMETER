@@ -1,1 +1,28 @@
+*************************************************************************************
+			     B.M.S COLLEGE OF ENGINEERING
+			 PB 1908, Bull Temple Road, Bengaluru
+*************************************************************************************
+USN          : 1BM22IS___			 Student Name : SATHWIK
+Programme    : B.E 				 Academic Year: 2022-23
+Semester     : 1st 				 Branch       : Information Science
+*************************************************************************************
+				 GRADE CARD
+-------------------------------------------------------------------------------------
+ Subject 		 MAX 	 MIN 	 Marks Obtained 	 Grade
+-------------------------------------------------------------------------------------
+ Physics 		 100  	 33 		56		  D
+ Maths    		 100  	 33 		95		  S
+ Python 		 100  	 33 		78		  B
+ C Programming 		 100  	 33 		58		  D
+ Electronics 		 100  	 33 		36		  F
+ English 		 100  	 33 		85		  A
+ Kannada  		 100  	 33 		75		  B
+ IDT 			 100  	 33 		96		  S
+-------------------------------------------------------------------------------------
+	 Total Marks  : 579/800
+	 Average Marks: 72/100
+	 CGPA         : 7.24/10
+	 Grade        : B
+-------------------------------------------------------------------------------------
 
+The Result Graph is saved along with the file named as Sathwik_Result_Graph
