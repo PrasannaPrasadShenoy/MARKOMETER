@@ -2,7 +2,7 @@
 			     B.M.S COLLEGE OF ENGINEERING
 			 PB 1908, Bull Temple Road, Bengaluru
 *************************************************************************************
-USN          : 1BM22IS___			 Student Name : SATHWIK
+USN          : 1BM22IS___			 Student Name : PRASANNA
 Programme    : B.E 				 Academic Year: 2022-23
 Semester     : 1st 				 Branch       : Information Science
 *************************************************************************************
@@ -10,19 +10,19 @@ Semester     : 1st 				 Branch       : Information Science
 -------------------------------------------------------------------------------------
  Subject 		 MAX 	 MIN 	 Marks Obtained 	 Grade
 -------------------------------------------------------------------------------------
- Physics 		 100  	 33 		56		  D
- Maths    		 100  	 33 		95		  S
- Python 		 100  	 33 		78		  B
- C Programming 		 100  	 33 		58		  D
- Electronics 		 100  	 33 		36		  F
- English 		 100  	 33 		85		  A
- Kannada  		 100  	 33 		75		  B
- IDT 			 100  	 33 		96		  S
+ Physics 		 100  	 33 		96		  S
+ Maths    		 100  	 33 		75		  B
+ Python 		 100  	 33 		96		  S
+ C Programming 		 100  	 33 		35		  F
+ Electronics 		 100  	 33 		85		  A
+ English 		 100  	 33 		66		  C
+ Kannada  		 100  	 33 		88		  A
+ IDT 			 100  	 33 		45		  F
 -------------------------------------------------------------------------------------
-	 Total Marks  : 579/800
-	 Average Marks: 72/100
-	 CGPA         : 7.24/10
+	 Total Marks  : 586/800
+	 Average Marks: 73/100
+	 CGPA         : 7.33/10
 	 Grade        : B
 -------------------------------------------------------------------------------------
 
-The Result Graph is saved along with the file named as Sathwik_Result_Graph
+The Result Graph is saved along with the file named as Prasanna_Result_Graph
